@@ -63,5 +63,5 @@ btn2 = Button(window, text="rainbow", command=regenboog)
 btn2.grid(column=0, row=2)
 btn1 = Button(window, text="Click Me", command=clicked)
 btn1.grid(column=2, row=0)
-# de hooft loop waar door alles blijft uitvoeren
+# de hooft loop waar door alles blijft uitvoeren.
 window.mainloop()
