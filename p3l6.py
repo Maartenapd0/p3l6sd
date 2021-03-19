@@ -32,7 +32,7 @@ def regenboog():
         turtle.penup()
         turtle.forward(10)
         turtle.right(15)
-        turtle.pendown()
+        turtle.pendown()...
         turtle.color(random.choice(colors))
 
     turtle.forward(0)
